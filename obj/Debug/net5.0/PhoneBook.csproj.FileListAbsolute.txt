@@ -1,0 +1,15 @@
+/Users/Luise/Desktop/phonebook/bin/Debug/net5.0/PhoneBook.deps.json
+/Users/Luise/Desktop/phonebook/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+/Users/Luise/Desktop/phonebook/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+/Users/Luise/Desktop/phonebook/bin/Debug/net5.0/PhoneBook.dll
+/Users/Luise/Desktop/phonebook/bin/Debug/net5.0/ref/PhoneBook.dll
+/Users/Luise/Desktop/phonebook/bin/Debug/net5.0/PhoneBook.pdb
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.csprojAssemblyReference.cache
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.dll
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/ref/PhoneBook.dll
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.pdb
+/Users/Luise/Desktop/phonebook/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
